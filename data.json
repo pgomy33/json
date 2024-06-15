@@ -240,5 +240,16 @@
         "arduino": [
             "Out of range"
         ]
+    },
+    {
+        "timestamp": "2024-06-15 18:01:44",
+        "pixhawk": {
+            "lat": 0.0,
+            "lon": 0.0,
+            "alt": 0.0
+        },
+        "arduino": [
+            "Out of range"
+        ]
     }
 ]
