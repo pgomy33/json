@@ -1,11 +1,13 @@
-{
-  "name": "Emre",
-  "age": 25,
-  "city": "Gaziantep",
-  "is_student": false,
-  "courses": [
-    "Math",
-    "Physics",
-    "Biology"
-  ]
-}
+[
+    {
+        "timestamp": "2024-06-15 14:55:40",
+        "pixhawk": {
+            "lat": 0.0,
+            "lon": 0.0,
+            "alt": 0.0
+        },
+        "arduino": [
+            "Out of range"
+        ]
+    }
+]
