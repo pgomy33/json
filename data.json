@@ -1,1 +1,13 @@
-
+[
+    {
+        "timestamp": "2024-06-15 15:51:45",
+        "pixhawk": {
+            "lat": 0.0,
+            "lon": 0.0,
+            "alt": 0.0
+        },
+        "arduino": [
+            "Out of range"
+        ]
+    }
+]
